@@ -8,3 +8,5 @@ to the way machines work while still being easy to learn.
 Some important lessons and examples in c language
 developer: Aref Heydari
 8/5/2024
+
+Note: uncomment each example and test them out
